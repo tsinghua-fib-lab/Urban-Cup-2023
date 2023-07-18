@@ -11,17 +11,17 @@ Six population-scale datasets are provided: mobility dataset, carbon emission da
 ### 1. Mobility dataset
 This dataset is extracted from SafeGraph. It details the monthly population movement between CBGs within the 10 largest cities in the United States from 2018.1 to 2022.4. The movements were aggregated from anonymized mobile devices. Please click here for more details about the dataset.
 
-### 1. Carbon emission dataset
+### 2. Carbon emission dataset
 This dataset is collected from Open-source Data Inventory for Anthropogenic CO2 (ODIAC). It records the CO2 emission within the 10 largest cities in the United States between 2018 and 2021. The data provides monthly CO2 emissions from fossil fuel combustion, cement production and gas flaring on a 1x1 km spatial resolution.
 
-### 1. Air pollution dataset
+### 3. Air pollution dataset
 This dataset is derived from the Environmental Protection Agency of the United States. It is collected from air quality monitors and consists of the daily O3, SO2, NO2, CO, PM2.5, and PM10 information across the United States between 2018 and 2021.
 
-### 1. Population characteristic data
+### 4. Population characteristic dataset
 This dataset is obtained from American Community Survey (ACS), Earth Observation Group and OpenStreetMap. It provides both CBG-level and city-level poverty, health insurance, education, income Gini & light Gini, and built environment & racial segregation data from 2014 to 2023 across the 10 largest cities in the United States. Please click here for more details about the dataset.
 
-### 1. Visual semantics data
+### 5. Visual semantics dataset
 This dataset provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click here for more details about the dataset.
 
-1. Basic geographical information data
+### 6. Basic geographical information dataset
 This dataset consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year.

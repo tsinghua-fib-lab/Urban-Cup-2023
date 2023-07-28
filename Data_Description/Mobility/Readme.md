@@ -11,7 +11,7 @@ cbg_visit_matrix = np.load('cbg_visit_2018-01_1.npy')
 ``` 
 ​
   **Data Preview:**  
-  
+  ![Image text](mobility1.png)
 
 
 - **Mobility/id_dict_{city_id}.pkl**
@@ -25,3 +25,4 @@ with open('id_dict_1.pkl', 'rb') as f:
 ``` 
 
  **Data Preview:**  
+  ![Image text](mobility2.png)

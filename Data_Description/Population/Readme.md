@@ -17,12 +17,14 @@
 
 ​
   **Data Preview:** 
+  
   ![Image text](Population1.png)
 
 - **03_ Health_Insurance_CBG_level.csv (03_ Health_Insurance_City_level.csv)** 
   - Contains civilian noninstitutionalized population, population with no health insurance under 18, population with no health insurance between 18 to 34, population with no health insurance between 35 to 64, and population with no health insurance over 65 years old at the CBG/city level.
 
   **Data Preview:**
+  
   ![Image text](Population3.png)
 
 - **04_Education_CBG_level.csv (04_Education_City_level.csv)** 
@@ -30,6 +32,7 @@
 
 ​
   **Data Preview:** 
+  
   ![Image text](Population4.png)
 
 - **10_Gini_CBG_level.csv (10_Gini_City_level.csv)** 
@@ -37,6 +40,7 @@
 
 
   **Data Preview:**
+  
   ![Image text](Population10.png)
 
 - **11_Built_Environment_CBG_level.csv (11_Built_Environment_City_level.csv)** 
@@ -44,4 +48,5 @@
 
 ​
   **Data Preview:** 
+  
   ![Image text](Population11.png)

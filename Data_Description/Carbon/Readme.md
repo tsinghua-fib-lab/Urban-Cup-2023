@@ -7,7 +7,9 @@ import numpy as np
 odiac_values=np.load(‘odiac_carbon_mainland_us.npy’, allow_pickle=True).item()
 ```
 where odiac_values is a dict form of the monthly odiac values of the 1km*1km points in Mainland USA.
+
 Take an example, to request the odiac values of the March of 2021, just type odiac_values['21'][3].
+
 The key is the location tuple for the point (latitude, longitude), and the value is the monthly carbon emission in units of Megatonne.​
 
   **Data Preview:**  

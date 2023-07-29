@@ -8,3 +8,4 @@ Each file (CBG/city level) contains the object numbers and land cover semantic a
 
 **Data Preview:** 
 
+![Image text](Visual1.png)

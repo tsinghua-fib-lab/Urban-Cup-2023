@@ -24,5 +24,5 @@ This dataset is obtained from American Community Survey (ACS), Earth Observation
 This dataset provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Visual_Semantics/Readme.md) for more details about the dataset.
 
 ### 6. Basic geographical information dataset
-This dataset consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year. Please click [here](Data_Description/Basic_Geographical_Info/Readme.md) for more details about the dataset.
+This dataset consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year. Please click [here](Data_Description/Basic_Geographic_Info/Readme.md) for more details about the dataset.
 

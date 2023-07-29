@@ -18,10 +18,11 @@ This dataset is collected from Open-source Data Inventory for Anthropogenic CO2 
 This dataset is derived from the Environmental Protection Agency of the United States. It is collected from air quality monitors and consists of the daily O3, SO2, NO2, CO, PM2.5, and PM10 information across the United States between 2018 and 2021. Please click [here](Data_Description/Air_Pollution/Readme.md) for more details about the dataset.
 
 ### 4. Population characteristic dataset
-This dataset is obtained from American Community Survey (ACS), Earth Observation Group and OpenStreetMap. It provides both CBG-level and city-level poverty, health insurance, education, income Gini & light Gini, and built environment & racial segregation data from 2014 to 2023 across the 10 largest cities in the United States. Please click here for more details about the dataset.
+This dataset is obtained from American Community Survey (ACS), Earth Observation Group and OpenStreetMap. It provides both CBG-level and city-level poverty, health insurance, education, income Gini & light Gini, and built environment & racial segregation data from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Population/Readme.md) for more details about the dataset.
 
 ### 5. Visual semantics dataset
-This dataset provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click here for more details about the dataset.
+This dataset provides semantic attributes processed from satellite remote sensing data. It depicts both CBG-level and city-level urban infrastructural information from 2014 to 2023 across the 10 largest cities in the United States. Please click [here](Data_Description/Visual_Semantics/Readme.md) for more details about the dataset.
 
 ### 6. Basic geographical information dataset
-This dataset consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year.
+This dataset consists of basic geographical information of CBGs across the 10 largest cities in the United States between 2014 and 2021. It records the city, area, population, centroid, and boundary of the CBGs within each year. Please click [here](Data_Description/Basic_Geographical_Info/Readme.md) for more details about the dataset.
+

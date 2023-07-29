@@ -9,6 +9,7 @@
 
 ​
   **Data Preview:** 
+  
   ![Image text](basic1.png)
 
 - **Basic_Geographic_Statistics_City.csv** 
@@ -16,6 +17,7 @@
 
 
   **Data Preview:**
+  
   ![Image text](basic2.png)
 
 - **Geographic_Lookup_Table_Between_City_CBG.csv** 
@@ -23,5 +25,6 @@
 
 ​
   **Data Preview:** 
+  
   ![Image text](basic3.png)
   

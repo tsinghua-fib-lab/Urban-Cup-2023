@@ -7,6 +7,6 @@
   - State/County/City/CBSA Name(s) are the name(s) of the state/county/city/core bases statistical area (metropolitan area) where the monitoring site is located.
   
 
-  **Data Preview:**
+**Data Preview:**
   
 ![Image text](air_pollution1.png)

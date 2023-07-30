@@ -8,5 +8,7 @@ odiac_values=pd.read_csv('odiac_carbon_mainland_us.csv')
 ```
 where each row contains the location information (latitude, longitude), the temporal information (year, month) of the point, and the monthly carbon emission values in units of Megatonne.
 
-  **Data Preview:**  
+
+  **Data Preview:** 
+  
 ![Image text](Carbon1.png)

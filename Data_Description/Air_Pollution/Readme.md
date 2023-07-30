@@ -5,6 +5,8 @@
   - The columns record [Latitude, Longitude, Parameter Name, Sample Duration, Date Local, Units of Measure, Observation Count, Arithmetic Mean, State Name, County Name, City Name, CBSA Name], respectively.
   - Observation Count represents the number of observations (samples) taken during the day, and Arithmetic Mean is the average (arithmetic mean) value for the day. 
   - State/County/City/CBSA Name(s) are the name(s) of the state/county/city/core bases statistical area (metropolitan area) where the monitoring site is located.
-  - **Data Preview:**
+  
+
+  **Data Preview:**
   
 ![Image text](air_pollution1.png)

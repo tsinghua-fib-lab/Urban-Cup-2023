@@ -37,7 +37,7 @@
   ![Image text](Population4.png)
 
 - **10_Gini_CBG_level.csv (10_Gini_City_level.csv)** 
-  - Contains income Gini and light Gini at the CBG/city level.
+  - Contains light Gini at the CBG level and income Gini and light Gini at the city level.
   
 
   **Data Preview:**

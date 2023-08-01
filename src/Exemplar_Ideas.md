@@ -13,7 +13,7 @@ Experienced segregation is defined as how likely urban dwellers can encounter ot
 
 
 ### 2. How urban infrastructure affects carbon emission 
-Cities are major contributors to carbon emissions. Urban infrastructure, including transportation systems, buildings, energy supply, and waste management, plays a critical role in shaping the environmental sustainability of cities. It is interesting to investigate the how infrastructures in multiple cities affect carbon emission, for example, what infrastructure contribute most to emission, which can provide valuable insights for policymakers and urban planners to develop sustainable and low-carbon cities. 
+Cities are major contributors to carbon emissions. Urban infrastructure, including transportation systems, buildings, energy supply, and waste management, plays a critical role in shaping the environmental sustainability of cities. It is interesting to investigate how infrastructures in multiple cities affect carbon emission, for example, what infrastructures contribute most to emission, which can provide valuable insights for policymakers and urban planners to develop sustainable and low-carbon cities. 
 
 **Datasets involved**: Visual Semantics, Carbon 
 

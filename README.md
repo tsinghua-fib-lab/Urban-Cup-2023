@@ -32,7 +32,7 @@ The data entries of the above mentioned datasets are summarized as below:
 
 ![Image text](Data_Description/Data.png)
 
-### 7. England evironment and health datasets
+### 7. England environment and health datasets
 This is a fine-grained and multi-sourced environment and health dataset collected from cities in England. It records the health outcomes of citizens covering physical health (COVID-19 cases, asthma medication expenditure, etc.), mental health (psychological medication expenditure), and life expectancy estimations. It presents the corresponding environmental determinants from four perspectives, including basic statistics (population, area, etc.), behavioural environment (availability of tobacco, health-care services, etc.), built environment (road density, street view features, etc.), and natural environment (air quality, temperature, etc.). To reveal regional differences, this dataset extracts and integrates massive environment and health indicators from heterogeneous sources into two unified spatial scales, i.e., at the middle layer super output area (MSOA) and the city level, via big data processing and deep learning techniques.
 
 A comprehensive data table that contains all the subsections is also provided, which is organized into a long table with columns as follows:

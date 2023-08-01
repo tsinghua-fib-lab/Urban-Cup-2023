@@ -26,6 +26,7 @@ Cities are major contributors to carbon emissions. Urban infrastructure, includi
 
 ### 3. Does COVID hindered sustainable development? 
 Previous studies have witnessed reduction in human activity during the COVID [1, 2], which raise the concern that COVID may disrupt the efforts toward sustainable development. It is interesting to use datasets including mobility, visual semantics, built environments to assess the speed of sustainable transition before and after COVID, for instance, the expansion of greenlands, sports fields, and the increasing communications between neighbourhoods of diverse backgrounds. 
+
 **Datasets involved**: Mobility dataset, Population, Visual Semantics, (+COVID-19 dataset) 
 
 **References:** 

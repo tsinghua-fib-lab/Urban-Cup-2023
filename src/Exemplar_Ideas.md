@@ -6,7 +6,9 @@ Experienced segregation is defined as how likely urban dwellers can encounter ot
 **Datasets involved**: Mobility dataset, Population characteristic dataset, Air pollution dataset 
 
 **References**: 
+
 [1] Moro, Esteban, et al. "Mobility patterns are associated with experienced income segregation in large US cities." Nature Communications 12.1 (2021): 4633. 
+
 [2] Chu, Junhong, Haoming Liu, and Alberto Salvo. "Air pollution as a determinant of food delivery and related plastic waste." Nature Human Behaviour 5.2 (2021): 212-220. 
 
 
@@ -16,6 +18,7 @@ Cities are major contributors to carbon emissions. Urban infrastructure, includi
 **Datasets involved**: Visual Semantics, Carbon 
 
 **References:** 
+
 [1] Lin, Yatang, et al. "Impact of high-speed rail on road traffic and greenhouse gas emissions." Nature Climate Change 11.11 (2021): 952-957. 
 
 [2] Böhm, Matteo, Mirco Nanni, and Luca Pappalardo. "Gross polluters and vehicle emissions reduction." Nature Sustainability 5.8 (2022): 699-707. 
@@ -26,6 +29,7 @@ Previous studies have witnessed reduction in human activity during the COVID [1,
 **Datasets involved**: Mobility dataset, Population, Visual Semantics, (+COVID-19 dataset) 
 
 **References:** 
+
 [1] Chang, Serina, et al. "Mobility network models of COVID-19 explain inequities and inform reopening." Nature 589.7840 (2021): 82-87. 
 
 [2] Weill, Joakim A., et al. "Social distancing responses to COVID-19 emergency declarations strongly differentiated by income." Proceedings of the national academy of sciences 117.33 (2020): 19658-19660. 
